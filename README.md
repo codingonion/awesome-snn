@@ -216,6 +216,8 @@
 
   - ### Hardware Deployment
 
+    - [catalyst-neuromorphic/catalyst-benchmarks](https://github.com/catalyst-neuromorphic/catalyst-benchmarks) <img src="https://img.shields.io/github/stars/catalyst-neuromorphic/catalyst-benchmarks?style=social"/> : SNN benchmark suite for the Catalyst neuromorphic processor (128 cores, 131K neurons, FPGA). Includes SHD (90.7%), SSC (72.1%), N-MNIST (99.2%), and GSC KWS (88.0%) benchmarks with full Loihi 2 feature parity. [[Paper-N1](https://doi.org/10.5281/zenodo.18727094)][[Paper-N2](https://doi.org/10.5281/zenodo.18728256)]
+
     - [metr0jw/Spiking-Neural-Network-on-FPGA](https://github.com/metr0jw/Spiking-Neural-Network-on-FPGA) <img src="https://img.shields.io/github/stars/metr0jw/Spiking-Neural-Network-on-FPGA?style=social"/> : Leaky Integrate and Fire (LIF) model implementation for FPGA.
 
 
